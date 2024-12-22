@@ -3,6 +3,10 @@
 ## Overview
 This dashboard provides a comprehensive analysis of overtime metrics for MegaMart employees. It includes various visualizations and data points to help understand the trends and distribution of overtime hours among employees.
 
+![OvertimeAnalysisReport](https://github.com/rnkouser/PowerBI-Projects/blob/main/OverTime%20Report/Overtime%20Analysis%20Report.png)<br><br><br>
+
+![OvertimeAnalysisStarSchema](https://github.com/rnkouser/PowerBI-Projects/blob/main/OverTime%20Report/Overtime%20Analysis%20-StarSchema.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
