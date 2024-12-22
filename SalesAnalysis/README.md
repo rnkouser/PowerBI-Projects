@@ -1,7 +1,10 @@
 # MegaMart Sales Analysis Report
 
 ## Overview
-Welcome to the MegaMart Sales Analysis Report! This project provides an in-depth analysis of MegaMart's sales performance over the years. Using Power BI, the report offers interactive visualizations and key metrics to help understand transaction sales, delivery sales, order sales, and transaction numbers.
+Welcome to the MegaMart Sales Analysis Report!
+This project provides an in-depth analysis of MegaMart's sales performance over the years. Using Power BI, the report offers interactive visualizations and key metrics to help understand transaction sales, delivery sales, order sales, and transaction numbers.
+
+![SalesAnalysisReport](https://github.com/rnkouser/PowerBI-Projects/blob/main/SalesAnalysis/SalesAnalysisReport.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,9 +12,8 @@ Welcome to the MegaMart Sales Analysis Report! This project provides an in-depth
 - [Filters](#filters)
 - [Visualizations](#visualizations)
 - [Star Schema](#star-schema)
-- [Last Updated](#last-updated)
 - [Usage Instructions](#usage-instructions)
-- [Contact](#contact)
+
 
 ## Introduction
 This report is designed to provide comprehensive insights into MegaMart's sales performance across various dimensions such as time, store, promotion, and product. The interactive dashboards allow users to filter data and gain detailed insights.
