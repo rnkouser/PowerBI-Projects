@@ -3,6 +3,12 @@
 ## Overview
 This report provides a comprehensive analysis of MegaMart's purchase transactions over the years. It includes detailed insights into transaction purchase amounts, delivery purchase amounts, order purchase amounts, and the number of transactions. The report is designed to help stakeholders understand purchasing trends, compare different metrics, and make informed decisions based on the data.
 
+![Star Schema](https://github.com/rnkouser/PowerBI-Projects/blob/main/PurchaseAnalysis/PurchaseAnalysisReport.png)
+
+
+![Star Schema](https://github.com/rnkouser/PowerBI-Projects/blob/main/PurchaseAnalysis/PurchaseAnalysis-Drillthrough.png)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Metrics](#key-metrics)
@@ -59,7 +65,7 @@ Detailed flow chart showing the breakdown of transaction purchase amounts by sto
 The star schema for this report illustrates the relationships between the fact table and dimension tables, designed to optimize query performance and improve data retrieval speed.
 
 ### Diagram
-![Star Schema](path/to/star-schema/image.png)
+![Star Schema](https://github.com/rnkouser/PowerBI-Projects/blob/main/PurchaseAnalysis/PurchaseAnalysis-StarSchema.png)
 
 ### Schema Details
 - **Fact Table**: EDW factsales
