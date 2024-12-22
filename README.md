@@ -2,7 +2,7 @@
 Welcome to my Power BI Projects repository! Here you'll find a collection of my Power BI projects, each demonstrating my skills and experience in data visualization and business intelligence. Dive in to explore interactive dashboards, insightful reports, and data-driven storytelling. 
 
 ## 🚀 Projects Overview
-### 1. Sales Performance Dashboard
+### 1. Sales Analysis
 - Description: A comprehensive dashboard analyzing sales performance across different regions and product lines.
 - Key Features: Trend analysis, year-over-year growth, top-performing products.
 - Technologies Used: Power BI, DAX, SQL.
