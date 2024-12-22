@@ -64,3 +64,19 @@ Map showing sales distribution across different states.
 - The Sankey diagram helps trace the flow of sales through various categories.
 - The line chart shows sales trends over time, helping identify peaks and troughs.
 - The map visualizes sales distribution geographically.
+
+  ## Star Schema
+### Schema Overview
+The star schema for this report illustrates the relationships between the fact table and dimension tables, designed to optimize query performance and improve data retrieval speed.
+
+### Schema Details
+- **Fact Table**: EDW factsales
+  - Contains measurable, quantitative data.
+- **Dimension Tables**:
+  - **Store**: Contains store-related attributes.
+  - **Employee**: Contains employee-related attributes.
+  - **POSChannel**: Contains point-of-sale channel attributes.
+  - **Product**: Contains product-related attributes.
+  - **Business Year**: Contains business year attributes.
+  - **Date**: Contains date-related attributes.
+  - **Customer**: Contains customer
