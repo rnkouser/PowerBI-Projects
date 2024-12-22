@@ -21,7 +21,7 @@ This dashboard is designed to offer detailed insights into the overtime metrics 
 
 ## Features
 1. **Period Selection**:
-   - Users can select the year (2021 or 2022) and the quarter (Q1, Q2, Q3, Q4) or specific months (Jan, Feb, Mar) to filter the data.
+   - Users can select the year (2015 - 2024) and the quarter (Q1, Q2, Q3, Q4) or specific months (Jan. - Dec.) to filter the data.
    
 2. **Filters**:
    - **Day Period**: Filter data by different periods of the day.
