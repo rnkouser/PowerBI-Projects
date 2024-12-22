@@ -7,10 +7,10 @@ Welcome to my Power BI Projects repository! Here you'll find a collection of my 
 - Key Features: Trend analysis, year-over-year growth, top-performing products.
 - Technologies Used: Power BI, DAX, SQL.
 
-### 2. Customer Insights Report
-Description: An interactive report providing deep insights into customer demographics, behavior, and satisfaction.
-Key Features: Customer segmentation, churn prediction, satisfaction scores.
-Technologies Used: Power BI, R, Python.
+### 2. Purchase Analysis Report
+Description: An interactive report providing deep insights into Purchase performance across different regions and product lines.
+Key Features: Trend analysis, year-over-year growth, top-performing products
+Technologies Used: Power BI, DAX, SQL.
 
 ### 3. Financial Analysis Dashboard
 Description: A detailed dashboard for financial analysis, including income statements, balance sheets, and cash flow analysis.
