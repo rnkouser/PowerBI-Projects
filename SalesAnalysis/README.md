@@ -6,6 +6,11 @@ This project provides an in-depth analysis of MegaMart's sales performance over 
 
 ![SalesAnalysisReport](https://github.com/rnkouser/PowerBI-Projects/blob/main/SalesAnalysis/SalesAnalysisReport.png)
 
+
+
+
+![SalesAnalysisDrillthrough](https://github.com/rnkouser/PowerBI-Projects/blob/main/SalesAnalysis/SalesAnalysis-Drillthrough.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Metrics](#key-metrics)
