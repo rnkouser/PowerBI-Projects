@@ -69,6 +69,8 @@ Map showing sales distribution across different states.
 ### Schema Overview
 The star schema for this report illustrates the relationships between the fact table and dimension tables, designed to optimize query performance and improve data retrieval speed.
 
+![Star Schema](https://github.com/rnkouser/PowerBI-Projects/blob/main/SalesAnalysis/SalesAnalysis-StarSchema.png)
+
 ### Schema Details
 - **Fact Table**: EDW factsales
   - Contains measurable, quantitative data.
