@@ -1,4 +1,5 @@
-# MegaMart Purchase Analysis Report
+# 🛍️ MegaMart Purchase Analysis Report 🛍️
+
 
 ## Overview
 This report provides a comprehensive analysis of MegaMart's purchase transactions over the years. It includes detailed insights into transaction purchase amounts, delivery purchase amounts, order purchase amounts, and the number of transactions. The report is designed to help stakeholders understand purchasing trends, compare different metrics, and make informed decisions based on the data.
