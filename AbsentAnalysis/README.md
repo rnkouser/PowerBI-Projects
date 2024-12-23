@@ -1,4 +1,5 @@
-# MegaMart Absent Analysis Dashboard
+# 🚫 MegaMart Absent Analysis Report 🚫
+
 
 ## Overview
 This dashboard provides a comprehensive analysis of absence metrics for MegaMart employees. It includes various visualizations and data points to help understand trends, frequency, and reasons for employee absences.
