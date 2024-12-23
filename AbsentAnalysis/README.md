@@ -95,19 +95,19 @@ The schema consists of five tables: Date, Absent Category, Employee, EDW Fact_HR
 
 ### Table Details
 1. **Date Table**:
-   - Fields: businessdatekey, businessday, businessquarter, businessWeekNo, Date, effectivedate, EnglishDayofWeek, Englishmonth, FrenchDayofWeek
+   - Fields: businessdatekey, businessday, businessquarter, businessWeekNo, Date, effectivedate, EnglishDayofWeek, Englishmonth, FrenchDayofWeek etc
 
 2. **Absent Category Table**:
-   - Fields: Category, CategoryID, CategorySK, EffectiveStartDate
+   - Fields: Category, CategoryID, CategorySK, EffectiveStartDate etc
 
 3. **Employee Table**:
-   - Fields: DateOfBirth, EffectiveEndDate, EffectiveStartDate, EmployeeID, EmployeeName, EmployeeNo, EmployeeSK, MaritalStatus
+   - Fields: DateOfBirth, EffectiveEndDate, EffectiveStartDate, EmployeeID, EmployeeName, EmployeeNo, EmployeeSK, MaritalStatus etc
 
 4. **EDW Fact_HRAbsent Table**:
-   - Fields: Absent_CategorySK, Absent_DateSK, Absent_Hour, AbsentSK, EmployeeSK, LoadDate, StoreSK
+   - Fields: Absent_CategorySK, Absent_DateSK, Absent_Hour, AbsentSK, EmployeeSK, LoadDate, StoreSK etc
 
 5. **Store Table**:
-   - Fields: City, EffectiveStartDate, Product, State, Store, StoreID, StoreSK, StreetAddress
+   - Fields: City, EffectiveStartDate, Product, State, Store, StoreID, StoreSK, StreetAddress etc
 
 ### Relationships
 - The **Date** table is connected to the **EDW Fact_HRAbsent** table via
