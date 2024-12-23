@@ -3,6 +3,12 @@
 ## Overview
 This dashboard provides a comprehensive analysis of misconduct metrics for MegaMart employees. It includes various visualizations and data points to help understand trends, frequency, and decisions related to employee misconduct.
 
+![MisconductAnalysisReport](https://github.com/rnkouser/PowerBI-Projects/blob/main/MisconductAnalysis/MisconductAnalysisReport.png)<br><br><br>
+
+![MisconductAnalysisDrillthrough](https://github.com/rnkouser/PowerBI-Projects/blob/main/MisconductAnalysis/MisconductDrillthrough.png)<br><br><br>
+
+![MisconductAnalysisModel](https://github.com/rnkouser/PowerBI-Projects/blob/main/MisconductAnalysis/MisconductAnalysis-StarSchema.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
