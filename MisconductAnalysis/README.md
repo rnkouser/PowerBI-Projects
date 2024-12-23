@@ -1,4 +1,4 @@
-# MegaMart Misconduct Report Dashboard
+# 🌟 MegaMart Misconduct Report  🌟
 
 ## Overview
 This dashboard provides a comprehensive analysis of misconduct metrics for MegaMart employees. It includes various visualizations and data points to help understand trends, frequency, and decisions related to employee misconduct.
