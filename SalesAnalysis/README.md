@@ -1,4 +1,4 @@
-# MegaMart Sales Analysis Report
+# 🛒 MegaMart Sales Analysis Report 🛒
 
 ## Overview
 Welcome to the MegaMart Sales Analysis Report!
