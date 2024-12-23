@@ -11,9 +11,8 @@ This Power BI dashboard provides an in-depth analysis of John Camry's income and
 - [Filters](#filters)
 - [Detailed Data Table](#detailed-data-table)
 - [Data Insights](#data-insights)
-- [Last Updated](#last-updated)
 - [Usage](#usage)
-- [Contact](#contact)
+
 
 ## Introduction
 John Camry, a cab owner, uses an Excel sheet to calculate his income and expenditure. He is very keen on avoiding any revenue shortfall and reducing his expenses to make profits. John needs visualizations, status indicators, trend, and predictive analysis on the progress of his monthly income and expenses. While he wants to keep and maintain the existing Excel sheet, John requires a data visualization portal to access his financial data via mobile phone, laptop, and computer.
