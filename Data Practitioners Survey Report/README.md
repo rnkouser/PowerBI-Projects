@@ -2,6 +2,10 @@
 
 This repository contains a Power BI dashboard designed to provide insights into survey data from data practitioners. The dashboard offers an overview of key metrics, including survey participant demographics, job titles, salaries, programming language preferences, and more.
 
+## Dashboard Overview
+
+![Data Practitioners Overview Dashboard](https://github.com/rnkouser/PowerBI-Projects/blob/main/Data%20Practitioners%20Survey%20Report/Data%20Practitioners%20Report.png)
+
 ### Key Features
 
 1. **Country of Survey Participants**
@@ -36,7 +40,7 @@ To use or modify this dashboard, follow these steps:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-practitioners-dashboard.git
+   git clone https://github.com/rnkouser/PowerBI-Projects/tree/main/Data%20Practitioners%20Survey%20Report.git
    ```
 2. Open the `Data Practitioners Dashboard.pbix` file in Power BI Desktop.
 
