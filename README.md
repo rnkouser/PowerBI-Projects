@@ -57,5 +57,5 @@ Power BI empowers businesses to transform raw data into meaningful insights thro
 I am a Certified Data Professional with over 5 years of experience in data management, data modeling, and business intelligence. My expertise in tools like Power BI, SQL, Python, and cloud technologies allows me to create impactful visualizations and drive business insights.
 
 # 🌐 Connect with Me
-LinkedIn: www.linkedin.com/in/rn-kouser-63a881249 <br>
+LinkedIn: www.linkedin.com/in/rahila-naeem-kouser-63a881249 <br>
 Email: rahila.naeem2@gmail.com
